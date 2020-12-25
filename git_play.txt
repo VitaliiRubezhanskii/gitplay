@@ -3,3 +3,7 @@ version 1
 ---------
 
 version_2 to experiment_v2
+
+-----------------
+
+version 3 - should conflict
